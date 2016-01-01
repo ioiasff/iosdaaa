@@ -237,9 +237,9 @@ Admins
 Special thanks to
 arash
 fazel
-👑👑👑👑���
+👑👑👑👑���
 👑👑
-👑���
+👑���
 Our channels
 @botdeath [persian]
 ]],
@@ -287,60 +287,60 @@ return group id or user id🆔
 
 !help🔘
 
-!lock [member|name|bots]
-Locks [member|name|bots] 
+!lock [member|name|bots
+Locks [member|name|bots] 🔵
 
 !unlock [member|name|photo|bots]
-Unlocks [member|name|photo|bots]
+Unlocks [member|name|photo|bots]🔴
 
 !set rules <text>
-Set <text> as rules
+Set <text> as rules⭐
 
 !set about <text>
-Set <text> as about
+Set <text> as about⭐
 
 !settings
 Returns group settings
 
 !newlink
-create/revoke your group link
+create/revoke your group link🌐‌
 
 !link
-returns group link
+returns group link🌐‌
 
 !owner
-returns group owner id
+returns group owner id🔰🆔
 
 !setowner [id]
-Will set id as owner
+Will set id as owner🆕 🔰
 
 !setflood [value]
-Set [value] as flood sensitivity
+Set [value] as flood sensitivity👁‍🗨
 
 !stats
-Simple message statistics
+Simple message statistics👁‍🗨
 
 !save [value] <text>
-Save <text> as [value]
+Save <text> as [value]🔷
 
 !get [value]
-Returns text of [value]
+Returns text of [value]🔶
 
 !clean [modlist|rules|about]
-Will clear [modlist|rules|about] and set it to nil
+Will clear [modlist|rules|about] and set it to nil🔃
 
 !res [username]
-returns user id
+returns user id🆔
 "!res @username"
 
 !log
-will return group logs
+will return group logs🔊
 
 !banlist
-will return group ban list
+will return group ban list📜
 
 **U can use both "/" and "!" 
-
+🆔ADMINS @arash_admin_death @fazel_admin_death
 
 *Only owner and mods can add bots in group
 
