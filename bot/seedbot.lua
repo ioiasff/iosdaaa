@@ -220,72 +220,72 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {152485254,0,tonumber(our_id)},--Sudo users
+    sudo_users = {152485254,152350938,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
-    realm = {60156627},--Realms Id
+    realm = {74358219},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v1
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/SEEDTEAM/TeleSeed
+❤️🎃❤️🎃
 
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@seyedan25 [Manager]
+^^
+@arash_admin_death
+@fazel_admin_death
 
 Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
-
+arash
+fazel
+👑👑👑👑���
+👑👑
+👑���
 Our channels
-@teleseedch [English]
+@botdeath [persian]
 ]],
     help_text = [[
 Commands list :
 
 !kick [username|id]
-You can also do it by reply
-
+You can also do it by reply👌
+👌
 !ban [ username|id]
-You can also do it by reply
-
+You can also do it by reply👌
+👌
 !unban [id]
-You can also do it by reply
+You can also do it by reply👌
 
 !who
-Members list
+Members list✴️
 
 !modlist
-Moderators list
-
+Moderators list♥️
+♥️
 !promote [username]
-Promote someone
+Promote someone👑📣
 
 !demote [username]
-Demote someone
+Demote someone👑🔕
 
 !kickme
-Will kick user
+Will kick user✋😏
 
 !about
-Group description
+Group description🔱
 
 !setphoto
-Set and locks group photo
+Set and locks group photo🔱
 
 !setname [name]
-Set group name
+Set group name〽️
 
 !rules
-Group rules
+Group rules〽️
 
 !id
-return group id or user id
+return group id or user id🆔
 
-!help
+!help🔘
 
 !lock [member|name|bots]
 Locks [member|name|bots] 
