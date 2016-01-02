@@ -7,7 +7,7 @@ local function create_group(msg)
         if is_sudo(msg) or is_realm(msg) and is_admin(msg) then
                 local group_creator = msg.from.print_name
         create_group_chat (group_creator, group_name, ok_cb, false)
-                return 'Group '..string.gsub(group_name, '_', ' ')..' has been created.'
+                return 'Group '..string.gsub(group_name, '_', ' ')..' has been created➕.'
         end
 end
  
@@ -448,19 +448,19 @@ end
  
 return {
   patterns = {
-    "^[!/](creategroup) (.*)$",
-    "^[!/](setabout) (%d+) (.*)$",
-    "^[!/](setrules) (%d+) (.*)$",
-    "^[!/](setname) (%d+) (.*)$",
-        "^[!/](lock) (%d+) (.*)$",
-    "^[!/](unlock) (%d+) (.*)$",
-    "^[!/](setting) (%d+)$",
-        "^[!/](wholist)$",
-        "^[!/](who)$",
-    "^[!/](addadmin) (.*)$", -- sudoers only
-    "^[!/](removeadmin) (.*)$", -- sudoers only
-    "^[!/](list) (.*)$",
-        "^[!/](log)$",
+    "^(creategroup) (.*)$",
+    "^(setabout) (%d+) (.*)$",
+    "^(setrules) (%d+) (.*)$",
+    "^(setname) (%d+) (.*)$",
+        "^(lock) (%d+) (.*)$",
+    "^(unlock) (%d+) (.*)$",
+    "^(setting) (%d+)$",
+        "^(wholist)$",
+        "^(who)$",
+    "^(addadmin) (.*)$", -- sudoers only
+    "^(removeadmin) (.*)$", -- sudoers only
+    "^(list) (.*)$",
+        "^(log)$",
         "^!!tgservice (.+)$",
   },
   run = run
