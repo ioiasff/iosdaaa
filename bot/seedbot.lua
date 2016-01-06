@@ -246,100 +246,100 @@ Our channels
     help_text = [[
 Commands list :
 
-!kick [username|id]
+kick [username|id]
 You can also do it by reply👌
 👌
-!ban [ username|id]
+ban [ username|id]
 You can also do it by reply👌
 👌
-!unban [id]
+unban [id]
 You can also do it by reply👌
 
-!who
+who
 Members list✴️
 
-!modlist
+modlist
 Moderators list♥️
 ♥️
-!promote [username]
+promote [username]
 Promote someone👑📣
 
-!demote [username]
+demote [username]
 Demote someone👑🔕
 
-!kickme
+kickme
 Will kick user✋😏
 
-!about
+about
 Group description🔱
 
-!setphoto
+setphoto
 Set and locks group photo🔱
 
-!setname [name]
+setname [name]
 Set group name〽️
 
-!rules
+rules
 Group rules〽️
 
-!id
+id
 return group id or user id🆔
 
-!help🔘
+help🔘
 
-!lock [member|name|bots
+lock [member|name|bot
 Locks [member|name|bots] 🔵
 
-!unlock [member|name|photo|bots]
+unlock [member|name|photo|bots]
 Unlocks [member|name|photo|bots]🔴
 
-!set rules <text>
+set rules <text>
 Set <text> as rules⭐
 
-!set about <text>
+set about <text>
 Set <text> as about⭐
 
-!settings
+settings
 Returns group settings
 
-!newlink
+newlink
 create/revoke your group link🌐‌
 
-!link
+link
 returns group link🌐‌
 
-!owner
+owner
 returns group owner id🔰🆔
 
-!setowner [id]
+setowner [id]
 Will set id as owner🆕 🔰
 
-!setflood [value]
+setflood [value]
 Set [value] as flood sensitivity👁‍🗨
 
-!stats
+stats
 Simple message statistics👁‍🗨
 
-!save [value] <text>
+save [value] <text>
 Save <text> as [value]🔷
 
-!get [value]
+get [value]
 Returns text of [value]🔶
 
-!clean [modlist|rules|about]
+clean [modlist|rules|about]
 Will clear [modlist|rules|about] and set it to nil🔃
 
-!res [username]
+res [username]
 returns user id🆔
-"!res @username"
+"res @username"
 
-!log
+log
 will return group logs🔊
 
 !banlist
 will return group ban list📜
 
-**U can use both "/" and "!" 
+*D E A T H B O T*
 🆔ADMINS @arash_admin_death @fazel_admin_death
 
 *Only owner and mods can add bots in group
