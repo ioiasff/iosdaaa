@@ -141,7 +141,7 @@ return {
     "^([Ss]tats)$",
     "^([Ss]tatslist)$",
     "^([Ss]tats) (group) (%d+)",
-    "^([Ss]tats) (teledeath)",-- Put everything you like :)
+    "^([Ss]tats) ([Dd]eath)",-- Put everything you like :)
 		"^[!/]([Tt]eledeath)"-- Put everything you like :)
     }, 
   run = run
